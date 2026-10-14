@@ -1,0 +1,23 @@
+{
+  "name": "cardsnearby-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for CardsNearby — find local US card shops and card shows (sports cards, Pokémon, Magic, and other TCGs) by location.",
+  "homepage": "https://www.cardsnearby.com/mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klombard1206/cardsnearby-mcp"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "cards",
+    "trading-cards",
+    "pokemon",
+    "sports-cards",
+    "card-shops",
+    "card-shows",
+    "directory"
+  ],
+  "license": "MIT",
+  "author": "CardsNearby (https://www.cardsnearby.com)"
+}

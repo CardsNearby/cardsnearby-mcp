@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.klombard1206/cardsnearby",
+  "description": "Find local US card shops and card shows (sports cards, Pokémon, Magic, and other TCGs) by location.",
+  "repository": {
+    "url": "https://github.com/klombard1206/cardsnearby-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://www.cardsnearby.com/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.cardsnearby.com/api/mcp"
+    }
+  ]
+}
