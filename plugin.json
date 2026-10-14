@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "cardsnearby",
+  "version": "1.0.0",
+  "description": "Find local US card shops and card shows (sports cards, Pokémon, Magic, and other TCGs) by location.",
+  "homepage": "https://www.cardsnearby.com/mcp",
+  "license": "MIT",
+  "keywords": ["trading-cards", "pokemon", "sports-cards", "card-shows", "location", "directory"]
+}
